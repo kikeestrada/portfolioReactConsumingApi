@@ -1,12 +1,7 @@
-Hi Sergio, here is the test project requested by You
+This is a practice using react app previous to  develop my portfolio
 
-Please clone the repository, take a look and let me know if the code
-make match with your request
+using this technology
 
-Please let me know if you have any additional question
 
 here the githubpages link: https://kikeestrada.github.io/react-test/
 
-Best Regards!
-
-Enrique Estrada
