@@ -5,7 +5,7 @@ make match with your request
 
 Please let me know if you have any additional question
 
-here the githubpages link: https://kikeestrada.github.io/4geektest/
+here the githubpages link: https://kikeestrada.github.io/react-test/
 
 Best Regards!
 
