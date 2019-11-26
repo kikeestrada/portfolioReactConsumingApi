@@ -1,7 +1,5 @@
-This is a practice using react app previous to  develop my portfolio
-
-using this technology
+This is a test practice using react app for Gamanza
 
 
-here the githubpages link: https://kikeestrada.github.io/react-test/
+here the githubpages link: https://kikeestrada.github.io/gamanza-test/
 

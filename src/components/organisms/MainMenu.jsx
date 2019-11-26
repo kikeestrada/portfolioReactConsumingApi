@@ -1,5 +1,4 @@
 import React, {createRef} from 'react'
-import CartCounter from '../atoms/CartCounter'
 
 const menu = createRef()
 const toggleMenu = ()=> menu.current.classList.toggle('show');
@@ -13,7 +12,7 @@ const MainMenu = () => (
             <div className="s-grid-1 lg-cols-3 s-cross-center s-main-end header-links">
                 <nav className="main-menu" ref={menu}>
                     <ul>
-                        <CartCounter/>
+
                     </ul>
                 </nav>
                 <div className="main-menu-toggle to-l" id="main-menu-toggle"
