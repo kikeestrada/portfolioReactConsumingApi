@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.1e06cf59.chunk.css",
-    "main.js": "/react-test/static/js/main.978e182b.chunk.js",
-    "main.js.map": "/react-test/static/js/main.978e182b.chunk.js.map",
-    "runtime~main.js": "/react-test/static/js/runtime~main.b9ad4e01.js",
-    "runtime~main.js.map": "/react-test/static/js/runtime~main.b9ad4e01.js.map",
-    "static/js/2.ad47faeb.chunk.js": "/react-test/static/js/2.ad47faeb.chunk.js",
-    "static/js/2.ad47faeb.chunk.js.map": "/react-test/static/js/2.ad47faeb.chunk.js.map",
-    "index.html": "/react-test/index.html",
-    "precache-manifest.014a729666a22e25afad816cdd55ef47.js": "/react-test/precache-manifest.014a729666a22e25afad816cdd55ef47.js",
-    "service-worker.js": "/react-test/service-worker.js",
-    "static/css/main.1e06cf59.chunk.css.map": "/react-test/static/css/main.1e06cf59.chunk.css.map"
+    "main.css": "/gamanza-test/static/css/main.e059f892.chunk.css",
+    "main.js": "/gamanza-test/static/js/main.07e470b4.chunk.js",
+    "main.js.map": "/gamanza-test/static/js/main.07e470b4.chunk.js.map",
+    "runtime~main.js": "/gamanza-test/static/js/runtime~main.422f5e45.js",
+    "runtime~main.js.map": "/gamanza-test/static/js/runtime~main.422f5e45.js.map",
+    "static/js/2.fdcae455.chunk.js": "/gamanza-test/static/js/2.fdcae455.chunk.js",
+    "static/js/2.fdcae455.chunk.js.map": "/gamanza-test/static/js/2.fdcae455.chunk.js.map",
+    "index.html": "/gamanza-test/index.html",
+    "precache-manifest.b5d4a102216e0b936f52933d62a6636b.js": "/gamanza-test/precache-manifest.b5d4a102216e0b936f52933d62a6636b.js",
+    "service-worker.js": "/gamanza-test/service-worker.js",
+    "static/css/main.e059f892.chunk.css.map": "/gamanza-test/static/css/main.e059f892.chunk.css.map"
   }
 }
