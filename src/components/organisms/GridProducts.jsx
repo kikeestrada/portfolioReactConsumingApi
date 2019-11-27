@@ -6,46 +6,42 @@ const objProducts = [
     {
         id              :1,
         title           : "title1",
-        image           : "img/img1.jpg",
+        image           : "http://lorempixel.com/400/200/",
     },
     {
         id              :2,
         title           : "title2",
-        image           : "img/img2.jpg",
-        price           : "100",
-        cursoLink       : "https://www.google.com"
+        image           : "http://lorempixel.com/400/200/",
     },
     {
         id              :3,
         title           : "title3",
-        image           : "img/img3.jpg",
-        price           : "150",
-        cursoLink       : "https://www.google.com"
+        image           : "http://lorempixel.com/400/200/",
     },
     {
         id              :4,
         title           : "title4",
-        image           : "img/img4.jpg",
+        image           : "http://lorempixel.com/400/200/",
     },
     {
         id              :5,
         title           : "title5",
-        image           : "img/img3.jpg",
+        image           : "http://lorempixel.com/400/200/",
     },
     {
         id              :6,
         title           : "title6",
-        image           : "img/img4.jpg",
+        image           : "http://lorempixel.com/400/200/",
     },
     {
         id              :7,
         title           : "title7",
-        image           : "img/img1.jpg",
+        image           : "http://lorempixel.com/400/200/",
     },
     {
         id              :8,
         title           : "title8",
-        image           : "img/img2.jpg",
+        image           : "http://lorempixel.com/400/200/",
     }
 ];
 
@@ -55,14 +51,12 @@ const objProducts2 = [
     {
         id              :1,
         title           : "title1",
-        image           : "img/img1.jpg",
+        image           : "http://lorempixel.com/400/200/",
     },
     {
         id              :2,
         title           : "title2",
-        image           : "img/img2.jpg",
-        price           : "100",
-        cursoLink       : "https://www.google.com"
+        image           : "http://lorempixel.com/400/200/",
     }
 ];
 
