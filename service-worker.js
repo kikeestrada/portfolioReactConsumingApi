@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gamanza-test/precache-manifest.05365f5d93d4f7df53a9f8f4221ec13a.js"
+  "/gamanza-test/precache-manifest.8cc3402b93ffb8dd1a25e96574091b46.js"
 );
 
 self.addEventListener('message', (event) => {

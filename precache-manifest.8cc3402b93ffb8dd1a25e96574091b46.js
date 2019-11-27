@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fb43e9101d0aec1c744a264252c7c8c",
+    "revision": "9ef47eba6676885b0a6a15774658ca7d",
     "url": "/gamanza-test/index.html"
   },
   {
-    "revision": "75982330f9aacbe5a0fa",
+    "revision": "0e61abe11359cfd57582",
     "url": "/gamanza-test/static/css/main.aec01aaa.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gamanza-test/static/js/2.1893db84.chunk.js"
   },
   {
-    "revision": "75982330f9aacbe5a0fa",
-    "url": "/gamanza-test/static/js/main.b69f8bdb.chunk.js"
+    "revision": "0e61abe11359cfd57582",
+    "url": "/gamanza-test/static/js/main.c3250bdf.chunk.js"
   },
   {
     "revision": "b25a0b9c8edecedf33a3",
