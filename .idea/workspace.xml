@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fab39bcb-a30b-4a6b-8b39-8967c00b8b1b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/organisms/GridProducts.jsx" afterPath="$PROJECT_DIR$/src/components/organisms/GridProducts.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/molecules/DeathsCard.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/molecules/EpisodesCard.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/organisms/DeathsCardsGrid.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/organisms/EpisodesCardsGrid.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/molecules/CardProduct.jsx" afterPath="$PROJECT_DIR$/src/components/molecules/CharacterCard.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/organisms/GridProducts.jsx" afterPath="$PROJECT_DIR$/src/components/organisms/CharterCardsGrid.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/pages/Episodes.jsx" afterPath="$PROJECT_DIR$/src/components/pages/Episodes.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/pages/Home.jsx" afterPath="$PROJECT_DIR$/src/components/pages/Home.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,36 +25,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainMenu.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/organisms/MainMenu.jsx">
+      <file leaf-file-name="EpisodesCard.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/molecules/EpisodesCard.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/pages/Home.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GridProducts.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/organisms/GridProducts.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="53" column="59" lean-forward="false" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
-              <caret line="58" column="59" lean-forward="false" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -54,44 +37,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CardProduct.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/molecules/CardProduct.jsx">
+      <file leaf-file-name="EpisodesCardsGrid.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/organisms/EpisodesCardsGrid.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles/styles.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/App.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="403">
+              <caret line="63" column="32" lean-forward="false" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="32" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Banner.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/organisms/Banner.jsx">
+      <file leaf-file-name="Episodes.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/pages/Episodes.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="135">
+              <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,15 +86,21 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/components/molecules/CardProduct.jsx" />
-        <option value="$PROJECT_DIR$/src/components/pages/Episodes.jsx" />
         <option value="$PROJECT_DIR$/node_modules/edteam-style-guides/dev/scss/components/_main-banner.scss" />
         <option value="$PROJECT_DIR$/src/components/organisms/Banner.jsx" />
         <option value="$PROJECT_DIR$/src/styles/styles.scss" />
         <option value="$PROJECT_DIR$/src/components/AppRoutes.jsx" />
-        <option value="$PROJECT_DIR$/src/components/pages/Home.jsx" />
-        <option value="$PROJECT_DIR$/src/components/organisms/MainMenu.jsx" />
         <option value="$PROJECT_DIR$/src/components/App.jsx" />
+        <option value="$PROJECT_DIR$/src/components/organisms/MainMenu.jsx" />
         <option value="$PROJECT_DIR$/src/components/organisms/GridProducts.jsx" />
+        <option value="$PROJECT_DIR$/src/components/molecules/CharacterCard.jsx" />
+        <option value="$PROJECT_DIR$/src/components/molecules/DeathsCard.jsx" />
+        <option value="$PROJECT_DIR$/src/components/pages/Home.jsx" />
+        <option value="$PROJECT_DIR$/src/components/organisms/CharterCardsGrid.jsx" />
+        <option value="$PROJECT_DIR$/src/components/organisms/DeathsCardsGrid.jsx" />
+        <option value="$PROJECT_DIR$/src/components/organisms/EpisodesCardsGrid.jsx" />
+        <option value="$PROJECT_DIR$/src/components/pages/Episodes.jsx" />
+        <option value="$PROJECT_DIR$/src/components/molecules/EpisodesCard.jsx" />
       </list>
     </option>
   </component>
@@ -341,12 +312,14 @@
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/organisms" />
       <recent name="$PROJECT_DIR$/src/components/molecules" />
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/organisms" />
+      <recent name="$PROJECT_DIR$/src/components/molecules" />
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
@@ -454,12 +427,12 @@
       <workItem from="1574724678621" duration="228000" />
       <workItem from="1574810730342" duration="77000" />
       <workItem from="1574810919049" duration="14000" />
-      <workItem from="1574810937494" duration="3686000" />
+      <workItem from="1574810937494" duration="5891000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23952000" />
+    <option name="totallyTimeSpent" value="26157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1281" y="-24" width="1440" height="877" extended-state="6" />
@@ -495,16 +468,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/atoms/CartCounter.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/molecules/CourseCard.jsx" />
-    <entry file="file://$PROJECT_DIR$/src/components/organisms/CourseGrid.jsx" />
-    <entry file="file://$PROJECT_DIR$/src/components/CustomHooks/useCourse.js" />
     <entry file="file://$PROJECT_DIR$/src/components/AppRoutes.jsx" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -513,7 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/organisms/GridProducts.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/organisms/CharterCardsGrid.jsx" />
     <entry file="file://$PROJECT_DIR$/src/components/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -549,7 +512,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/molecules/CardProduct.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/molecules/CharacterCard.jsx" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -718,14 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/pages/Episodes.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/AppRoutes.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -736,31 +691,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/organisms/MainMenu.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/organisms/Banner.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/pages/Home.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,19 +717,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/molecules/CardProduct.jsx">
+    <entry file="file://$PROJECT_DIR$/src/components/organisms/MainMenu.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="19" column="86" lean-forward="false" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/organisms/GridProducts.jsx">
+    <entry file="file://$PROJECT_DIR$/src/components/molecules/CharacterCard.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="53" column="59" lean-forward="false" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
-          <caret line="58" column="59" lean-forward="false" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/molecules/DeathsCard.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/organisms/CharterCardsGrid.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="59" column="9" lean-forward="false" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/organisms/DeathsCardsGrid.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/organisms/EpisodesCardsGrid.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="63" column="32" lean-forward="false" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/Episodes.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/molecules/EpisodesCard.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
