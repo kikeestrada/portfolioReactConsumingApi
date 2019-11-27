@@ -49,17 +49,53 @@ const objProducts = [
     }
 ];
 
+
+//Array
+const objProducts2 = [
+    {
+        id              :1,
+        title           : "title1",
+        image           : "img/img1.jpg",
+    },
+    {
+        id              :2,
+        title           : "title2",
+        image           : "img/img2.jpg",
+        price           : "100",
+        cursoLink       : "https://www.google.com"
+    }
+];
+
 const GridProducts = () => (
-    <div className="ed-grid s-grid-2 m-grid-3 l-grid-4">
-        {
-            objProducts.map( c => < CardProduct
-                key             = {c.id             }
-                id              = {c.id             }
-                title           = {c.title          }
-                image           = {c.image          }
-            />)
-        }
+    <>
+    <div className="ed-container">
+        <div className="ed-item m-60">
+            <div className="ed-grid s-grid-1 m-grid-2 l-grid-3">
+                {
+                    objProducts.map( c => < CardProduct
+                        key             = {c.id             }
+                        id              = {c.id             }
+                        title           = {c.title          }
+                        image           = {c.image          }
+                    />)
+                }
+            </div>
+        </div>
+        <div className="ed-item m-40">
+            <div className="ed-grid s-grid-1">
+                {
+                    objProducts2.map( c => < CardProduct
+                        key             = {c.id             }
+                        id              = {c.id             }
+                        title           = {c.title          }
+                        image           = {c.image          }
+                    />)
+                }
+            </div>
+        </div>
     </div>
+
+    </>
 );
 
 export default GridProducts
