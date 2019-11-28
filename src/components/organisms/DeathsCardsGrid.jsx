@@ -1,33 +1,37 @@
-import React from "react"
+import React, { Component } from "react"
 import DeathsCard from "../molecules/DeathsCard"
-
-
-//Array
-const objDeathsCards = [
-    {
-        id              :1,
-        title           : "title1",
-        image           : "http://lorempixel.com/400/200/",
-    },
-    {
-        id              :2,
-        title           : "title2",
-        image           : "http://lorempixel.com/400/200/",
-    }
-];
-
-const DeathsCardsGrid = () => (
-    <>
-        {
-            objDeathsCards.map( c => < DeathsCard
-                key             = {c.id             }
-                id              = {c.id             }
-                title           = {c.title          }
-                image           = {c.image          }
-            />)
+import axios from "axios"
+class DeathsCardsGrid extends Component {
+    constructor(props){
+        super(props);
+        this.state = {
+            deaths: []
         }
-
-    </>
-);
+    }
+    componentDidMount(){
+        axios.get('https://breakingbadapi.com/api/deaths')
+            .then(resp =>{
+                this.setState({
+                    deaths: resp.data
+                })
+            })
+    }
+    render(){
+        const { deaths } = this.state;
+        return(
+            <>
+            {
+                deaths.map(
+                    u => (
+                        <DeathsCard
+                            key     = {u.id}
+                            death   = {u.death}
+                        />
+                    ))
+            }
+            </>
+        )
+    }
+}
 
 export default DeathsCardsGrid
