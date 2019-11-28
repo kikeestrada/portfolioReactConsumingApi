@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fab39bcb-a30b-4a6b-8b39-8967c00b8b1b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App.jsx" afterPath="$PROJECT_DIR$/src/components/App.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AppRoutes.jsx" afterPath="$PROJECT_DIR$/src/components/AppRoutes.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/molecules/CharacterCard.jsx" afterPath="$PROJECT_DIR$/src/components/molecules/CharacterCard.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/molecules/DeathsCard.jsx" afterPath="$PROJECT_DIR$/src/components/molecules/DeathsCard.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/organisms/CharterCardsGrid.jsx" afterPath="$PROJECT_DIR$/src/components/organisms/CharterCardsGrid.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/organisms/DeathsCardsGrid.jsx" afterPath="$PROJECT_DIR$/src/components/organisms/DeathsCardsGrid.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/organisms/EpisodesCardsGrid.jsx" afterPath="$PROJECT_DIR$/src/components/organisms/EpisodesCardsGrid.jsx" />
-    </list>
+    <list default="true" id="fab39bcb-a30b-4a6b-8b39-8967c00b8b1b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/molecules/DeathsCard.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -39,8 +30,8 @@
       <file leaf-file-name="DeathsCardsGrid.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/organisms/DeathsCardsGrid.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="150">
+              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -364,12 +355,12 @@
       <workItem from="1574724678621" duration="228000" />
       <workItem from="1574810730342" duration="77000" />
       <workItem from="1574810919049" duration="14000" />
-      <workItem from="1574810937494" duration="12124000" />
+      <workItem from="1574810937494" duration="12185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32390000" />
+    <option name="totallyTimeSpent" value="32451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-24" width="1440" height="877" extended-state="6" />
@@ -729,7 +720,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/molecules/DeathsCard.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -738,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/organisms/DeathsCardsGrid.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
