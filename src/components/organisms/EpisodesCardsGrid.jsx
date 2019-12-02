@@ -11,8 +11,9 @@ class EpisodesCardsGrid extends Component {
     componentDidMount(){
         axios.get('https://breakingbadapi.com/api/episodes')
             .then(resp =>{
+                const limit = 6;
                 this.setState({
-                    episodes: resp.data
+                    episodes: resp.data.slice(0, limit)
                 })
             })
     }

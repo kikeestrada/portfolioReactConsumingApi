@@ -14,10 +14,10 @@ const MainMenu = () => (
                 <nav className="main-menu" ref={menu}>
                     <ul>
                         <li>
-                            <NavLink exact to ="/" activeClassName="activo"> Home</NavLink>
+                            <NavLink exact to ="/" activeClassName="activo">Home</NavLink>
                         </li>
                         <li>
-                            <NavLink to ="Episodes" activeClassName="activo"> Episodes</NavLink>
+                            <NavLink to ="/Episodes" activeClassName="activo">Episodes</NavLink>
                         </li>
                     </ul>
                 </nav>

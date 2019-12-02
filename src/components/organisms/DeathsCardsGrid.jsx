@@ -9,10 +9,11 @@ class DeathsCardsGrid extends Component {
         }
     }
     componentDidMount(){
-        axios.get('https://breakingbadapi.com/api/deaths')
+        axios.get('https://breakingbadapi.com/api/deaths?limit=6&offset=0')
             .then(resp =>{
+                const limit = 6;
                 this.setState({
-                    deaths: resp.data
+                    deaths: resp.data.slice(0, limit)
                 })
             })
     }
