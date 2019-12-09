@@ -10,8 +10,8 @@ const AppRoutes = () => (
         <MainMenu/>
         <Banner/>
         <Switch>
-            <Route path = "/" exact component={Home}/>
-            <Route path = "/Episodes" exact component={Episodes}/>
+            <Route path ="/" exact component={Home}/>
+            <Route path ="/Episodes" exact component={Episodes}/>
             <Route component={() => (
                 <div className="ed-grid">
                     <h1>Página no encontrada</h1>
