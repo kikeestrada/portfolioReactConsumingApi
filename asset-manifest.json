@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gamanza-test/static/css/main.a3523f05.chunk.css",
-    "main.js": "/gamanza-test/static/js/main.3cf18717.chunk.js",
-    "main.js.map": "/gamanza-test/static/js/main.3cf18717.chunk.js.map",
+    "main.css": "/gamanza-test/static/css/main.6e0be225.chunk.css",
+    "main.js": "/gamanza-test/static/js/main.d58acaa2.chunk.js",
+    "main.js.map": "/gamanza-test/static/js/main.d58acaa2.chunk.js.map",
     "runtime~main.js": "/gamanza-test/static/js/runtime~main.422f5e45.js",
     "runtime~main.js.map": "/gamanza-test/static/js/runtime~main.422f5e45.js.map",
     "static/js/2.d0aa40a1.chunk.js": "/gamanza-test/static/js/2.d0aa40a1.chunk.js",
     "static/js/2.d0aa40a1.chunk.js.map": "/gamanza-test/static/js/2.d0aa40a1.chunk.js.map",
     "index.html": "/gamanza-test/index.html",
-    "precache-manifest.aabc75752657b9b3dea48f3db0121219.js": "/gamanza-test/precache-manifest.aabc75752657b9b3dea48f3db0121219.js",
+    "precache-manifest.52a80d5ca9d13d15366dcc34c02e5bd8.js": "/gamanza-test/precache-manifest.52a80d5ca9d13d15366dcc34c02e5bd8.js",
     "service-worker.js": "/gamanza-test/service-worker.js",
-    "static/css/main.a3523f05.chunk.css.map": "/gamanza-test/static/css/main.a3523f05.chunk.css.map"
+    "static/css/main.6e0be225.chunk.css.map": "/gamanza-test/static/css/main.6e0be225.chunk.css.map"
   }
 }
